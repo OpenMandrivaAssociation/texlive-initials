@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-initials
-Version:	20080819
-Release:	10
+Version:	20170414
+Release:	1
 Summary:	Adobe Type 1 decorative initial fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/initials
