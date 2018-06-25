@@ -5,7 +5,7 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-initials
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	Adobe Type 1 decorative initial fonts
 Group:		Publishing
