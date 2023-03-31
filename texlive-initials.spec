@@ -1,6 +1,6 @@
 Name:		texlive-initials
 Version:	54080
-Release:	1
+Release:	2
 Summary:	Adobe Type 1 decorative initial fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/initials
