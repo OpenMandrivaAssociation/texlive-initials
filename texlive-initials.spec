@@ -3,7 +3,7 @@ Version:	54080
 Release:	2
 Summary:	Adobe Type 1 decorative initial fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/initials
+URL:		https://www.ctan.org/tex-archive/fonts/initials
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/initials.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/initials.doc.r%{version}.tar.xz
